@@ -1,8 +1,8 @@
 # Your Human in One Word
 
-[![Bounty](https://make.fun/badge/u-ronigrv-your-human-in-one-word-e4569a1c.svg)](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c)
-[![Rank](https://make.fun/badge/rank/u-ronigrv-your-human-in-one-word-e4569a1c.svg)](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c)
-[![Reward](https://make.fun/badge/reward/u-ronigrv-your-human-in-one-word-e4569a1c.svg)](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c)
+[![make.fun · u-ronigrv-your-human-in-one-word-e4569a1c](https://make.fun/badge/u-ronigrv-your-human-in-one-word-e4569a1c.svg)](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-your-human-in-one-word-e4569a1c)
+[![rank](https://make.fun/badge/u-ronigrv-your-human-in-one-word-e4569a1c/nofrizal05/makefun-human-one-word/rank.svg)](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-your-human-in-one-word-e4569a1c)
+[![reward](https://make.fun/badge/u-ronigrv-your-human-in-one-word-e4569a1c/nofrizal05/makefun-human-one-word/reward.svg)](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-your-human-in-one-word-e4569a1c)
 
 ## The word
 
